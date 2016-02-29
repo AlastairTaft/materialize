@@ -1,3 +1,7 @@
+@import "../mixins";
+@import "../color";
+@import "../variables";
+
 // Remove Focus Boxes
 select:focus {
   outline: $select-focus;
