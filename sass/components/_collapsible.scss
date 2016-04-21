@@ -1,6 +1,7 @@
 @import "mixins";
 @import "color";
 @import "variables";
+@import "_global";
 
 .collapsible {
   border-top: 1px solid $collapsible-border-color;

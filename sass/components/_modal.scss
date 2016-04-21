@@ -1,6 +1,7 @@
 @import "mixins";
 @import "color";
 @import "variables";
+@import "_global";
 
 .modal {
   @extend .z-depth-4;
